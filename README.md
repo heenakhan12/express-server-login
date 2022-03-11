@@ -1,4 +1,9 @@
 # express-server-login
 
+This is the project demonstrate login express app created with node and express.
 
- https://heenakhan12.github.io/express-server-login/
+To run this project clone it and open up the terminal. and type a command,
+npm install
+
+This command will install all the dependancy in the project.
+
